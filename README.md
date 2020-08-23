@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to the home of my ~abandoned~ side projects 👋
+
+Here you'll find useful(?) libraries such as [hasgo](https://github.com/DylanMeeus/Hasgo) and [GoAudio](https://github.com/DylanMeeus/GoAudio), as well as me messing around with a variety of languages like ~Spanish and Dutch~ CL, Python, ...  
 
 - 🔭 I’m currently working on GoAudio, an audio-processing library for Go
 
