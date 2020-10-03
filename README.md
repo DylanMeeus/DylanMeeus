@@ -4,6 +4,9 @@ Here you'll find useful(?) libraries such as [hasgo](https://github.com/DylanMee
 
 - 🔭 I’m currently working on GoAudio, an audio-processing library for Go
 
+[![Dylan's github stats](https://github-readme-stats.vercel.app/api?username=DylanMeeus)](https://github.com/DylanMeeus/github-readme-stats)
+
+
 <!--
 **DylanMeeus/DylanMeeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
